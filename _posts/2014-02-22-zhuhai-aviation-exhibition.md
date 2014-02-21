@@ -16,6 +16,6 @@ share: true
 俄罗斯勇士表演队的苏27
 
 <figure>
-	<a href="http://mil.news.sina.com.cn/nz/eyongshi/"><img src={{ site.url }}/images/su-27-01.jpg></a>
+	<a href="http://mil.news.sina.com.cn/nz/eyongshi/"><img src="{{ site.url }}/images/su-27-01.jpg"></a>
 	<figcaption><a href="http://mil.news.sina.com.cn/nz/eyongshi/" title="俄罗斯勇士队官方网">俄罗斯勇士表演队的苏27四机编队通场</a>.</figcaption>
 </figure>
