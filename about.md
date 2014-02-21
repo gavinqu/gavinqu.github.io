@@ -6,8 +6,8 @@ tags: [Gavin Qu, Bio, birthday]
 modified: 2014-02-17
 image:
   feature: warmtube.jpg
-  credit: Jocelyn Zhu
-  creditlink: http://www.jocelynzhu.tk
+  credit: 爸爸
+  creditlink: http://www.quxiaofeng.me
 ---
 
 Gavin Qu
