@@ -1,17 +1,17 @@
 ---
 layout: page
-permalink: /about/
-title: About Gavin Qu and This Site
-tags: [Gavin Qu, Bio, birthday]
-modified: 2014-02-17
+permalink: /about/index.html
+title: About Gavin
+description: 
+tags: [about, gavin]
+share: true
 image:
   feature: warmtube.jpg
-  credit: 爸爸
+  credit: Eli
   creditlink: http://www.quxiaofeng.me
 ---
 
-Gavin Qu
-
-Born in Hong Kong in 2011.
-
-TODO
+<figure>
+	<img src="/images/gavin.png">
+	<figcaption>Lovely Gavin</figcaption>
+</figure>
